@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'benjolabd',
+        'NAME': 'benjoladb',
         'USER': 'myuser',
         'PASSWORD': 'mypass',
         'HOST': '127.0.0.1',
